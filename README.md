@@ -42,5 +42,5 @@ Greetings, traveler! I am Aegon II Targaryen, the sixth Targaryen king to sit up
 
 If you stand with House Targaryen, pledge your loyalty, and together we shall secure our dynasty’s future!
 
-"Fire and Blood!" 🔥🐉
+# _Fire and Blood!_ 🔥🐉
 
