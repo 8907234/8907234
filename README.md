@@ -8,12 +8,6 @@ _Lord of the Seven Kingdoms and Protector of the Realm (Also, part-time dragon e
 
 Hi there! I'm Aegon II Targaryen, the rightful heir to the Iron Throne (or so I keep telling everyone). When I'm not busy ruling Westeros or dealing with those pesky rebellions, you can find me bonding with my dragon, Sunfyre, or debating the merits of gold vs. black in my wardrobe.
 
-I believe in three things:
-
-- Fire and Blood 🔥🩸
-- Family Drama 👨‍👩‍👧‍👦 (it’s a Targaryen tradition)
-- A good cup of wine 🍷 (preferably Dornish red)
-
 ## 🛠️ Technologies & Tools
 
 - 🐉 Dragon Warfare
